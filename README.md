@@ -1,2 +1,0 @@
-# self-web
-my resume

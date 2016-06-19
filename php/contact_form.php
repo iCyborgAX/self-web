@@ -1,5 +1,6 @@
 <?php 
-	$emailTo = "email@sitename.com"; // Enter your email for feedbacks here 	
+echo 'hello from the other side';
+	$emailTo = "iraamane.abdellah@gmail.com"; // Enter your email for feedbacks here 	
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$subject = $_POST['subject'];
